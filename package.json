@@ -1,0 +1,22 @@
+{
+  "name": "demo-koa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa-bodyparser": "^4.2.1",
+    "koa-nunjucks-2": "^3.0.2",
+    "koa-proxies": "^0.8.1",
+    "koa-respond": "^2.1.0",
+    "koa-router": "^7.4.0",
+    "koa-static": "^5.0.0",
+    "koa2": "^2.0.0-alpha.7",
+    "koa2-cors": "^2.0.6"
+  }
+}
